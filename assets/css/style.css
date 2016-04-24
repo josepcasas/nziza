@@ -996,3 +996,9 @@ footer .social-share a i {
 	margin: 5rem 0 0;
 }
 
+#mc_embed_signup{
+	clear:left; 
+	font:14px Helvetica,Arial,sans-serif; 
+	width:400px;
+}
+
